@@ -59,4 +59,4 @@ Result is rendered dynamically using Jinja2 templates.
 
 source : https://www.kaggle.com/datasets/saurabh00007/diabetescsv?resource=download
 
-sample view: 
+sample view: https://github.com/APPIKONDAKUMARSAI/diabetes_prediction/blob/main/diabetes.png
